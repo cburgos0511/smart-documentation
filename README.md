@@ -4,14 +4,9 @@
 
 > **Revolutionary AI-Powered Documentation Automation for Development Teams**
 
-[![GitHub stars](https://img.shields.io/github/stars/cburgos0511/smart-documentation?style=social)](https://github.com/cburgos0511/smart-documentation)
-[![GitHub forks](https://img.shields.io/github/forks/cburgos0511/smart-documentation?style=social)](https://github.com/cburgos0511/smart-documentation)
-[![GitHub issues](https://img.shields.io/github/issues/cburgos0511/smart-documentation)](https://github.com/cburgos0511/smart-documentation/issues)
-[![GitHub license](https://img.shields.io/github/license/cburgos0511/smart-documentation)](https://github.com/cburgos0511/smart-documentation/blob/main/LICENSE)
+<!-- > [![Demo Video](assets/videos/demo-overview.mp4)](assets/videos/demo-overview.mp4) -->
 
-[![Demo Video](assets/videos/demo-overview.mp4)](assets/videos/demo-overview.mp4)
-[![Business Impact](docs/business-case.md)](docs/business-case.md)
-[![Quick Start](docs/getting-started.md)](docs/getting-started.md)
+> [![Business Impact](docs/business-case.md)](docs/business-case.md) > [![Quick Start](docs/getting-started.md)](docs/getting-started.md)
 
 </div>
 
