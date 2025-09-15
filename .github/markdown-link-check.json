@@ -1,0 +1,19 @@
+{
+  "ignorePatterns": [
+    {
+      "pattern": "^https://cursor.sh/"
+    },
+    {
+      "pattern": "^https://notion.so/"
+    },
+    {
+      "pattern": "^https://atlassian.net/"
+    }
+  ],
+  "replacementPatterns": [
+    {
+      "pattern": "^/",
+      "replacement": "https://github.com/your-username/smart-documentation-agent/blob/main/"
+    }
+  ]
+}
