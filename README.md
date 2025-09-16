@@ -141,12 +141,35 @@ graph TB
 
 ## 📊 ROI Calculator
 
-| Team Size       | Annual Savings | Time Saved      | ROI    |
-| --------------- | -------------- | --------------- | ------ |
-| 10 developers   | $200K          | 8 hours/week    | 1,000% |
-| 50 developers   | $1M            | 40 hours/week   | 1,400% |
-| 100 developers  | $2.5M          | 80 hours/week   | 1,400% |
-| 500+ developers | $10M+          | 400+ hours/week | 1,400% |
+> **⚠️ These are hypothetical estimates based on industry averages. Actual results may vary significantly based on team size, documentation complexity, and implementation quality.**
+
+| Team Size       | Annual Savings Range | Time Saved Range    | ROI Range    |
+| --------------- | -------------------- | ------------------- | ------------ |
+| 10 developers   | $50K - $200K         | 4-8 hours/week      | 200-1,000%   |
+| 50 developers   | $250K - $1M          | 20-40 hours/week    | 500-1,400%   |
+| 100 developers  | $500K - $2.5M        | 40-80 hours/week    | 800-1,400%   |
+| 500+ developers | $2M - $10M+          | 200-400+ hours/week | 1,000-1,400% |
+
+## 😅 The Real Problem (And Why This Matters)
+
+**Let's be honest:** We always find time for features, enhancements, and bugs, but never for documentation. Why? Because documenting isn't the "cool" thing to do.
+
+But here's the thing - **documentation is the unsung hero of software development**. It's what makes the difference between:
+
+- 🚀 **A team that scales** vs. one that crumbles under its own complexity
+- 🎯 **Smooth onboarding** vs. new developers spending weeks figuring out your codebase
+- 💰 **Profitable client handoffs** vs. endless support calls and rework
+- 🏆 **Successful open source projects** vs. abandoned repositories
+
+**The brutal truth:** Most companies have terrible documentation because it's not prioritized. But when you do it right, it becomes your competitive advantage.
+
+**Factors affecting ROI:**
+
+- Documentation complexity and volume
+- Team adoption rate and training
+- Existing documentation debt level
+- Integration with existing tools
+- Management support and enforcement
 
 ## 🚀 What's Next
 
