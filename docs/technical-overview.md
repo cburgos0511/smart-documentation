@@ -1,6 +1,6 @@
-# Technical Overview: How Smart Documentation Agent Works
+# Technical Overview: How I Actually Built This
 
-> **Deep Dive into the AI-Powered Documentation System**
+> **Deep Dive into the Real AI-Powered Documentation System I Implemented**
 
 ## 🏗️ System Architecture
 
