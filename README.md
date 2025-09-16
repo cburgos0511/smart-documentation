@@ -163,6 +163,31 @@ But here's the thing - **documentation is the unsung hero of software developmen
 
 **The brutal truth:** Most companies have terrible documentation because it's not prioritized. But when you do it right, it becomes your competitive advantage.
 
+## 💰 Where These Savings Actually Come From
+
+### 🕐 **Time Savings Breakdown:**
+
+- **Developer Onboarding**: 3 weeks → 3 days (saves 2.5 weeks per new hire)
+- **Code Reviews**: 50% faster with clear context and examples
+- **Bug Investigation**: 60% less time spent hunting through undocumented code
+- **Feature Development**: 30% faster with clear architecture docs
+- **Knowledge Transfer**: Instant vs. weeks of "tribal knowledge" handoffs
+
+### 💸 **Cost Savings Breakdown:**
+
+- **Reduced Support Tickets**: 60% fewer "how do I..." questions
+- **Faster Client Onboarding**: 80% reduction in handoff time
+- **Lower Training Costs**: Self-service documentation vs. expensive training
+- **Reduced Rework**: Clear requirements prevent costly misunderstandings
+- **Better Retention**: Good docs = happier developers = less turnover
+
+### 📊 **Real-World Example (50-person team):**
+
+- **Before**: 2 hours/week per developer on documentation = 100 hours/week
+- **After**: 0.5 hours/week per developer = 25 hours/week
+- **Savings**: 75 hours/week × $100/hour × 52 weeks = **$390K/year**
+- **Plus**: Faster onboarding, fewer bugs, better client satisfaction
+
 **Factors affecting ROI:**
 
 - Documentation complexity and volume
